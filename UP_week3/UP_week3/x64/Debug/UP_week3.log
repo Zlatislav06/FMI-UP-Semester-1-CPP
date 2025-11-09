@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Zlati\source\repos\UP_week3\UP_week3\Source.cpp(35,6): warning C4101: 'br': unreferenced local variable
+  UP_week3.vcxproj -> C:\Users\Zlati\source\repos\UP_week3\x64\Debug\UP_week3.exe
