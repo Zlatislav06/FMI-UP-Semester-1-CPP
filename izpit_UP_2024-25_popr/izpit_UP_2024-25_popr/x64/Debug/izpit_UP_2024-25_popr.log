@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Zlati\source\repos\izpit_UP_2024-25_popr\izpit_UP_2024-25_popr\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Zlati\source\repos\izpit_UP_2024-25_popr\izpit_UP_2024-25_popr\Header.h(40,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zlati\source\repos\izpit_UP_2024-25_popr\izpit_UP_2024-25_popr\Header.h(90,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zlati\source\repos\izpit_UP_2024-25_popr\izpit_UP_2024-25_popr\Header.h(109,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zlati\source\repos\izpit_UP_2024-25_popr\izpit_UP_2024-25_popr\Header.h(129,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zlati\source\repos\izpit_UP_2024-25_popr\izpit_UP_2024-25_popr\Header.h(129,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zlati\source\repos\izpit_UP_2024-25_popr\izpit_UP_2024-25_popr\Source.cpp(6,31): warning C4305: 'argument': truncation from '__int64' to 'long'
+C:\Users\Zlati\source\repos\izpit_UP_2024-25_popr\izpit_UP_2024-25_popr\Source.cpp(6,21): warning C4309: 'argument': truncation of constant value
+C:\Users\Zlati\source\repos\izpit_UP_2024-25_popr\izpit_UP_2024-25_popr\Header.h(155): warning C4715: 'CheckQ': not all control paths return a value
+  izpit_UP_2024-25_popr.vcxproj -> C:\Users\Zlati\source\repos\izpit_UP_2024-25_popr\x64\Debug\izpit_UP_2024-25_popr.exe
